@@ -1,0 +1,64 @@
+* {
+  box-sizing: border-box;
+}
+h1 {
+  /* color: red; */
+  text-align: center;
+}
+#newp {
+  color: purple;
+}
+.classone {
+  color: red;
+}
+[atributname] {
+  color: yellow;
+}
+p.divp {
+  color: green;
+}
+div span {
+  color: gold;
+}
+div span p {
+  color: red;
+}
+.div1 {
+  /* padding: 20px; */
+  /* padding: 20px 100px; */
+  /* padding: 20px 100px 200px; */
+  /* padding: 20px 100px 200px 50px; */
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 20px;
+  padding-left: 20px;
+  border: 2px dashed green;
+  /* border-width: 10px;
+    border-bottom-width: 20px; */
+  /* border-color: green;
+    border-left-color: red; */
+  /* border-width: 20px; */
+  /* border-style: hidden; */
+}
+.div2 {
+  border-bottom: 1px solid red;
+  border-top: 2px dashed blue;
+  border-left: 5px dotted green;
+  border-right: 20px dotted pink;
+  padding: 20px;
+  border-top-right-radius: 20px;
+}
+.div3 {
+  border: 2px solid black;
+  /* border-top-right-radius: 50px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 30px;
+  border-bottom-right-radius: 40px; */
+  border-radius: 20px 30px 50px 60px;
+}
+.aylana{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+    border-radius: 50%;
+}
